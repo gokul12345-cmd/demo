@@ -9,4 +9,10 @@ public class demo {
 		System.out.println("Velocity");
 	}
 
+	@Test
+	public void test2() {
+		
+		System.out.println("my dream");
+	}
+
 }
